@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'ms';
+    src: url('../fonts/static/Montserrat-Regular.ttf');
+}
+
+* {
+    font-family: 'ms' !important;
+}
+
+.card-reform{
+    border: none!important;
+    padding: 20px;
+
+}
+.imageCouverture{
+    margin-bottom: 500px;
+}
